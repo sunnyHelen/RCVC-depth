@@ -1,5 +1,5 @@
 # RCVC-depth
-The code for On Robust Cross-View Consistency in Outdoor Self-Supervised Monocular Depth Estimation (Submit to TIP 2022)
+The code for On Robust Cross-View Consistency in Outdoor Self-Supervised Monocular Depth Estimation
 
 <p align="center">
   <img src="shortvideo.gif" alt="example input output gif" width="600" />
